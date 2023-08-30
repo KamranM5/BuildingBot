@@ -9,3 +9,4 @@ After that you need to install the following libraries for the bot to work:
 pip install mysql-connector-python
 pip install telebot
 
+After that you will need to create a mysql database and enter the necessary data in the functions.py file on line 4 instead of "!"
